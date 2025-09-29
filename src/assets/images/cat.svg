@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Cat Body -->
+  <ellipse cx="100" cy="140" rx="45" ry="35" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+
+  <!-- Cat Head -->
+  <circle cx="100" cy="80" r="40" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+
+  <!-- Cat Ears -->
+  <path d="M75 55 L85 35 L95 55 Z" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+  <path d="M105 55 L115 35 L125 55 Z" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+
+  <!-- Inner Ears -->
+  <path d="M78 52 L85 40 L92 52 Z" fill="#FFB366"/>
+  <path d="M108 52 L115 40 L122 52 Z" fill="#FFB366"/>
+
+  <!-- Eyes -->
+  <ellipse cx="88" cy="75" rx="8" ry="12" fill="#000"/>
+  <ellipse cx="112" cy="75" rx="8" ry="12" fill="#000"/>
+  <ellipse cx="88" cy="73" rx="3" ry="4" fill="#FFF"/>
+  <ellipse cx="112" cy="73" rx="3" ry="4" fill="#FFF"/>
+
+  <!-- Nose -->
+  <path d="M98 85 L102 85 L100 90 Z" fill="#E07A2E"/>
+
+  <!-- Mouth -->
+  <path d="M100 90 Q95 95 90 92" stroke="#E07A2E" stroke-width="2" fill="none"/>
+  <path d="M100 90 Q105 95 110 92" stroke="#E07A2E" stroke-width="2" fill="none"/>
+
+  <!-- Whiskers -->
+  <line x1="70" y1="85" x2="55" y2="82" stroke="#E07A2E" stroke-width="2"/>
+  <line x1="70" y1="95" x2="55" y2="95" stroke="#E07A2E" stroke-width="2"/>
+  <line x1="130" y1="85" x2="145" y2="82" stroke="#E07A2E" stroke-width="2"/>
+  <line x1="130" y1="95" x2="145" y2="95" stroke="#E07A2E" stroke-width="2"/>
+
+  <!-- Front Paws -->
+  <ellipse cx="75" cy="165" rx="12" ry="18" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+  <ellipse cx="125" cy="165" rx="12" ry="18" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+
+  <!-- Back Paws -->
+  <ellipse cx="85" cy="175" rx="10" ry="15" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+  <ellipse cx="115" cy="175" rx="10" ry="15" fill="#FF8C42" stroke="#E07A2E" stroke-width="2"/>
+
+  <!-- Tail -->
+  <path d="M145 140 Q160 120 155 95 Q150 85 140 90" stroke="#E07A2E" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+  <!-- Belly -->
+  <ellipse cx="100" cy="145" rx="25" ry="20" fill="#FFB366"/>
+
+  <!-- Chest Marking -->
+  <ellipse cx="100" cy="125" rx="15" ry="10" fill="#FFB366"/>
+</svg>
